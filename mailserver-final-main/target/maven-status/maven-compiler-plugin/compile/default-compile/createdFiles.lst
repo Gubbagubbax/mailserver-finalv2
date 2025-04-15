@@ -1,0 +1,7 @@
+com\example\mailserver\EmailService.class
+com\example\mailserver\SwaggerConfig.class
+com\example\mailserver\EmailController.class
+com\example\mailserver\MailserverApplication.class
+com\example\mailserver\EmailRequest.class
+com\example\mailserver\Email.class
+com\example\mailserver\EmailRepository.class
